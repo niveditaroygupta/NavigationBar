@@ -1,0 +1,18 @@
+.mainbar{
+    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);;
+    height: 100vh;
+    width: 0;
+    transition: 0.5s;
+   
+}
+li{
+    text-align: center;
+    margin: 20px;
+    font-size: 40px;
+    list-style: none;
+    color:white;
+    display: none;
+}
+button{
+    margin: 20px;
+}
